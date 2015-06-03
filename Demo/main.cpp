@@ -4,5 +4,6 @@ int main(){
 printf("Hello Github!\n");
 printf("This is a test.\n");
 printf("Pull Request Test.\n");
-	return 0;
+printf("Merge Test.\n");
+return 0;
 }
